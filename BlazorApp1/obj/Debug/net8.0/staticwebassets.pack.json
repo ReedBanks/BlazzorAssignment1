@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\bootstrap\\Chart.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\bootstrap\\feather.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\bootstrap\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\dashboard.css",
+      "PackagePath": "staticwebassets\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rexx\\Desktop\\PROJECT_FILES\\c#\\ASSIGNMENT1\\BlazorVer\\BlazorApp1\\wwwroot\\signin.css",
+      "PackagePath": "staticwebassets\\signin.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp1.props",
+      "PackagePath": "build\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp1.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp1.props",
+      "PackagePath": "buildTransitive\\BlazorApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
